@@ -4,8 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Lab_1-E215F8C5-7071-4A07-9E63-671AC2B161D9</UserSecretsId>
-    <RootNamespace>Lab_1</RootNamespace>
+    <UserSecretsId>aspnet-Lab_2-E215F8C5-7071-4A07-9E63-671AC2B161D9</UserSecretsId>
+    <RootNamespace>Lab_2</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
